@@ -66,17 +66,20 @@ src/
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/dannybunschoten/portfolio.git
 cd portfolio
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Run the development server:
+
 ```bash
 npm run dev
 ```
@@ -94,6 +97,7 @@ npm run dev
 ## 🎨 Design System
 
 The project uses a consistent design system with:
+
 - **Colors**: Zinc-based neutral palette with blue/purple accents
 - **Typography**: Geist Sans & Geist Mono fonts
 - **Spacing**: Tailwind's consistent spacing scale
@@ -122,4 +126,4 @@ The project uses a consistent design system with:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+this project is open source and available under the [MIT License](LICENSE).
