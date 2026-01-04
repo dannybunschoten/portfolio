@@ -126,4 +126,4 @@ The project uses a consistent design system with:
 
 ## 📄 License
 
-this project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE).
